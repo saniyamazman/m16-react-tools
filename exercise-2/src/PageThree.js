@@ -2,13 +2,13 @@
 import React from 'react';
 
 // PageOne Component
-var PageOne = React.createClass({
+var PageThree = React.createClass({
 	// Render a <Quote> element for each element in the state
 	render() {
 		return (
-			<div>Page one!</div>
+			<div>Page three!</div>
 		);
 	}
 });
 
-export default PageOne;
+export default PageThree;
